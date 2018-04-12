@@ -45,3 +45,11 @@ Después de esto configuramos el archivo enviroment.php donde están nuestras va
     $host = 'localhost';
     $status = 'No avaible connection!';
 ```
+
+
+###### Baja la repo
+
+Nosotros solo tenemos que bajar este repositorio dentro de la carpeta HTML, y cuando nuestro server lamp esté encendido podremos verlo desde: http://localhost/DemoPHP/
+```bash
+    cd /var/www/html
+```
