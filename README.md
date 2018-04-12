@@ -3,7 +3,7 @@
 ###### Requisitos 
 
 - Tener configurado y encendido un servidor: LAMP o XAMP
-- un IDE para editar los archivos: Sublime Text, VSCode, Atom
+- Un editor de textos para editar los archivos: Sublime Text, VSCode, Atom
 
 ### Configuración
 
